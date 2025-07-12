@@ -1,5 +1,6 @@
 import React from 'react'
 import img from '../assets/image.png'
+import Card from '../components/Mainn.jsx'
 
 const Abdurashid = () => {
   return (
@@ -37,7 +38,7 @@ const Abdurashid = () => {
 
       <div className='flex justify-between pl-[20px] pr-[20px] bg-[#323946] h-[50px] items-center'>
         <h2 className='text-white'>Copyright © 2023 by Codehal | All Rights Reserved.</h2>
-        <button className='w-[30px] h-[30px] bg-[#00EEFF] rounded-[5px] shadow-2xl shadow-[#00EEFF] text-[20px] text-[#323946]'>↑</button>
+        <button className='w-[30px] h-[30px] bg-[#00EEFF] rounded-[5px] shadow-2xl shadow-[#00EEFF] text-[20px] text-[#323946]'> <a href="<Card/>">↑</a></button>
       </div>
     </div>
     </div>

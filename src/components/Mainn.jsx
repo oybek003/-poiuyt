@@ -3,7 +3,7 @@ import indus from '../assets/indus.png'
 
 const main = () => {
   return (
-    <div className='bg-[#323946] text-white'>
+    <div className='header bg-[#323946] text-white'>
       <nav className='flex items-center justify-between pr-[32px] pl-[32px] pt-[32px] pb-[32px] bg-[#323946] text-white'>
           <h1>Portfolio</h1>
 
