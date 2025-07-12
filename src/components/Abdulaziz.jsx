@@ -1,9 +1,4 @@
-import React from 'react'
-
-const Abdulaziz = () => {
-  return (
-    <div>
-  import React from "react";
+import React from "react";
 import { Code, PenTool, BarChart2 } from "lucide-react";
 
 const Abdulaziz = () => {
@@ -53,9 +48,3 @@ const Abdulaziz = () => {
 };
 
 export default Abdulaziz;
-
-    </div>
-  )
-}
-
-export default Abdulaziz
